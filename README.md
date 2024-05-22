@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Alexandros Kapellas @m0vida
 - 👀 I’m interested in learning new technologies.
-- 🌱 I’m working as a Cloud Solution Architect in Greece.
-- 💞️ Love Scripting on Powershell and Azure.
+- 🌱 I’m working as an IT Cloud Solutions Architect in Greece.
+- 💞️ Love Scripting on Powershell, Terraform and Azure.
 
 <!---
 m0vida/m0vida is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
